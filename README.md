@@ -67,4 +67,4 @@ Notas
 Licencia
 
 Este proyecto es de uso libre para fines educativos y personales.
-Autor: [Tu Nombre Aquí]
+Autor: Tomás Fernández
